@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-CRMEB开源商城系统PHP版
+CRMEB开源商城系统PHP版1
 
 </div>
 
